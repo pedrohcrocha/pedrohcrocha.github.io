@@ -11,8 +11,9 @@ redirect_from:
 
 Educação
 ========
-* Graduação (1º da turma) em Economia, Universidade Federal da Paraíba, 2014.2-2018.1
-* Mestrando em Economia Aplicada, Universidade Federal da Paraíba, 2019.1 - EM PROGRESSO
+* Graduação (1º da turma) em Economia, Universidade Federal da Paraíba, 2014.2-2018.2
+* Mestrado em Economia Aplicada, Universidade Federal da Paraíba, 2019.1 - 2021.1
+* Doutorando em Economia, Fundação Getúlio Vargas - EPGE, 2021.1 - ...
 
 Educação adicional
 ========
